@@ -1,5 +1,6 @@
 ## AI/ML News Application
 This AI/ML-powered application is designed to provide a comprehensive news experience by fetching the latest news, detecting fake news, summarizing articles, and assisting users in improving the content. The app is built using Streamlit for an interactive and user-friendly interface.
+Deployment link : https://informedai-ht5f2m3df3hdhftwksg9u8.streamlit.app/
 
 Features
 
